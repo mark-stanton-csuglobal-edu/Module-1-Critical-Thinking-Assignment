@@ -1,7 +1,10 @@
 # Module-1-Critical-Thinking-Assignment
 Module 1: Critical Thinking Assignment
+
 Critical Thinking Assignment (100 Points)
+
 Creating Python Programs
+
 Part 1:
 Write a Python program to find the addition and subtraction of two numbers.
 
